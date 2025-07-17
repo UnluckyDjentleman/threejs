@@ -5,6 +5,7 @@ Here's my experiments with Three.js in Expo. But I used other model (t-shirt) he
 ## Link for tutorial
 
 https://dev.to/thechaudhrysab/react-native-and-threejs-25p4
+
 https://github.com/wass08/r3f-wawa-eats/tree/main
 
 Have made like before: added possibility to change a color of the model
