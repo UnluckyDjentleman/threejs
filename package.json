@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-three/drei": "^10.5.1",
+    "@react-three/fiber": "^9.2.0",
     "expo": "~53.0.17",
+    "expo-asset": "~11.1.7",
+    "expo-gl": "~15.1.7",
     "expo-status-bar": "~2.2.3",
+    "expo-three": "^2.2.1",
+    "lodash": "^4.17.21",
+    "prop-types": "^15.8.1",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "react-native-3d-model-view": "^1.2.0",
+    "three": "^0.178.0",
+    "zustand": "^5.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
