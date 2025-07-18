@@ -1,6 +1,6 @@
 # What is it
 
-Here's my experiments with Three.js in Expo. But I used other model (t-shirt) here, because porsche returns errors that's hard to inspect (more about it here: https://github.com/pmndrs/react-three-fiber/issues/1972)
+Here's my experiments with Three.js in Expo. But I used other model (t-shirt) here, because porsche returns errors that's hard to inspect cause of warnings in model validation (more about it here: https://github.com/pmndrs/react-three-fiber/issues/1972)
 
 ## Link for tutorial
 
@@ -15,3 +15,7 @@ Have made like before: added possibility to change a color of the model
 2. Add more design elements
 3. Add posibility to change a color for coats
 4. Add posibility to add logos on t-shirt.
+
+## Important thing about work with Threejs in Expo
+
+You should check if model is valid before its usage in project. I recommend to use https://gltf-viewer.donmccurdy.com/ because it gives you detailed report about model.
